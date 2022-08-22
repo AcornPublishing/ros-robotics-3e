@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>fake_laser_pkg</name>
+  <version>0.0.0</version>
+  <description>The fake_laser_pkg package</description>
+
+
+  <maintainer email="lentin@todo.todo">lentin</maintainer>
+
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>depthimage_to_laserscan</build_depend>
+  <build_depend>nodelet</build_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>depthimage_to_laserscan</run_depend>
+  <run_depend>nodelet</run_depend>
+  <run_depend>roscpp</run_depend>
+
+
+</package>
